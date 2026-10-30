@@ -259,7 +259,9 @@ GameObject:
   - component: {fileID: 374722383}
   - component: {fileID: 374722382}
   m_Layer: 0
-  m_Name: Camera
+  m_Name: "Camera(\u0414\u041B\u042F \u0428\u0410\u041A\u0410\u041B\u041E\u0412 \u041D\u0415
+    \u0422\u0420\u041E\u0413\u0410\u0422\u042C \u041D\u0418\u041A\u041E\u0413\u0414\u0410
+    \u0410 \u0422\u041E \u0421\u041C\u0415\u0420\u0422\u042C \u0418 \u0423\u0416\u0410\u0421)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
